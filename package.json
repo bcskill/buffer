@@ -2,11 +2,8 @@
   "name": "buffer",
   "version": "1.0.0",
   "description": "",
-  "main": "buffer.js",
-  "dependencies": {
-    "base64-js": "^1.3.0",
-    "ieee754": "^1.1.11"
-  },
+  "main": "index.js",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
