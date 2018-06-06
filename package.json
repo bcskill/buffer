@@ -1,0 +1,24 @@
+{
+  "name": "npm-buffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buffer.js",
+  "dependencies": {
+    "buffer": "^5.1.0",
+    "ieee754": "^1.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/meifan/npm-buffer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/meifan/npm-buffer/issues"
+  },
+  "homepage": "https://gitlab.com/meifan/npm-buffer#README"
+}
